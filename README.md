@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+The Star Wars Planets Explorer is a web application designed to provide users with information about various planets in the Star Wars universe. Users can explore different planets, view their characteristics such as climate, population, and residents, and navigate through the list of planets using pagination functionality
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+the code written by <---Puneet shetty>-----> 
+My contact number +91 8142424331
